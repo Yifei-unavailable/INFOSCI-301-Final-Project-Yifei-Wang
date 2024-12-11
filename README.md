@@ -90,6 +90,11 @@ The code for this project is available in the `CODE/` folder as `INFOSCI_301_Fin
 ## Interactive Visualization Product
 The interactive visualization product, developed using Dash, is available in another GitHub repository.  
 [View the Dash Interactive Visualization Repository](https://github.com/Yifei-unavailable/dash-yifei.git)
+### In GitHub Codespace
+  ```
+    pip install -r requirements.txt
+python Fianlapp.py
+  ```
 
 ---
 ## Statement of Intellectual and Professional Growth

@@ -35,6 +35,7 @@ This repository contains the final project for **INFOSCI 301 Data Visualization 
     - [Mapfile](#mapfile)
     - [CODE](#CODE)
     - [Final Report](#Final_Report)
+    - [Visuliazion Plot](#Visuliazion_Plot)
 7. [How to Run the Code](#how-to-run-the-code)
 8. [Interactive Visualization Product](#Interactive-Visualization-Product)
 9. [Statement of Intellectual and Professional Growth](#statement-of-intellectual-and-professional-growth)

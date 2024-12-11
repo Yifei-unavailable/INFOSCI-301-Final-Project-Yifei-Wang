@@ -1,5 +1,12 @@
 # Economic Complexity and Global Supply Chain Resilience: Insights through Advanced Data Visualization
 
+## Table of Contents
+1. [Project Overview](#project-overview)
+2. [Authors](#authors)
+3. [Disclaimer](#disclaimer)
+4. [Acknowledgments](#acknowledgments)
+5. [Embedded Media](#embedded-media)
+
 ## Project Overview
 This project explores the interplay between economic complexity and global supply chain resilience using advanced data visualization techniques. The objective is to uncover patterns and vulnerabilities in trade networks and provide actionable insights for policymakers, researchers, and businesses.
 

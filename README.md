@@ -1,21 +1,6 @@
 # Economic Complexity and Global Supply Chain Resilience: Insights through Advanced Data Visualization
 
----
-## Table of Contents
-1. [Project Overview](#project-overview)
-2. [Authors](#authors)
-3. [Disclaimer](#disclaimer)
-4. [Acknowledgments](#acknowledgments)
-5. [Table of Contents](#table-of-contents)
-6. [Navigation Instructions](#navigation-instructions)
-    - [Dataset](#dataset)
-    - [Mapfile](#mapfile)
-    - [CODE](#CODE)
-    - [Final Report](#Final_Report)
-7. [How to Run the Code](#how-to-run-the-code)
-8. [Interactive Visualization Product](#Interactive-Visualization-Product)
-9. [Statement of Intellectual and Professional Growth](#statement-of-intellectual-and-professional-growth)
-10. [Embedded Media](#embedded-media)
+
 ---
 ## Project Overview
 This project explores the interplay between economic complexity and global supply chain resilience using advanced data visualization techniques. The objective is to uncover patterns and vulnerabilities in trade networks and provide actionable insights for policymakers, researchers, and businesses.
@@ -38,7 +23,22 @@ This repository contains the final project for **INFOSCI 301 Data Visualization 
 - INFOSCI 301 Classmates for collaborative discussions and feedback insights.
 - AIGC tools like ChatGPT for drafting and revising project documentation.
 - Thanks to Chakraborty et al. for providing data on exposure,  the UN Comtrade Database for providing Trade data, and ECI data
-
+---
+## Table of Contents
+1. [Project Overview](#project-overview)
+2. [Authors](#authors)
+3. [Disclaimer](#disclaimer)
+4. [Acknowledgments](#acknowledgments)
+5. [Table of Contents](#table-of-contents)
+6. [Navigation Instructions](#navigation-instructions)
+    - [Dataset](#dataset)
+    - [Mapfile](#mapfile)
+    - [CODE](#CODE)
+    - [Final Report](#Final_Report)
+7. [How to Run the Code](#how-to-run-the-code)
+8. [Interactive Visualization Product](#Interactive-Visualization-Product)
+9. [Statement of Intellectual and Professional Growth](#statement-of-intellectual-and-professional-growth)
+10. [Embedded Media](#embedded-media)
 ---
 
 ## Navigation Instructions

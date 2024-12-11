@@ -1,11 +1,6 @@
 # Economic Complexity and Global Supply Chain Resilience: Insights through Advanced Data Visualization
 
-## Table of Contents
-1. [Project Overview](#project-overview)
-2. [Authors](#authors)
-3. [Disclaimer](#disclaimer)
-4. [Acknowledgments](#acknowledgments)
-5. [Embedded Media](#embedded-media)
+
 
 ## Project Overview
 This project explores the interplay between economic complexity and global supply chain resilience using advanced data visualization techniques. The objective is to uncover patterns and vulnerabilities in trade networks and provide actionable insights for policymakers, researchers, and businesses.
@@ -15,8 +10,16 @@ This project explores the interplay between economic complexity and global suppl
 ## Authors
 - **Name**: Yifei Wang
 - **Role**: Project Lead and Developer
----
 
+---
+## Table of Contents
+1. [Project Overview](#project-overview)
+2. [Authors](#authors)
+3. [Disclaimer](#disclaimer)
+4. [Acknowledgments](#acknowledgments)
+5. [Embedded Media](#embedded-media)
+
+---
 ## Disclaimer
 This repository contains the final project for **INFOSCI 301 Data Visualization and Information Aesthetics**, instructed by **Prof. Luyao Zhang** at **Duke Kunshan University in Autumn 2024**.
 

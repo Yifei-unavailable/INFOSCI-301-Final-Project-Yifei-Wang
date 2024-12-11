@@ -63,7 +63,9 @@ The `Mapfile/` folder includes:
 ### Code
 The `CODE/` folder includes:
 - **`INFOSCI_301_Final_Project_Yifei_Wang.ipynb`**: The code for visulization.
-
+### Detailed Report
+The `Final Report/` folder includes:
+- **`Yifei Wang Final Project.docx`**: The detailed report for this project.
 ---
 
 ## How to Run the Code

@@ -21,6 +21,12 @@ This repository contains the final project for **INFOSCI 301 Data Visualization 
 - AIGC tools like ChatGPT for drafting and revising project documentation.
 - Thanks to Chakraborty et al. for providing data on exposure,  the UN Comtrade Database for providing Trade data, and ECI data
 
+---
+## Statement of Intellectual and Professional Growth
+This project provided an opportunity to develop expertise in:
+- Data visualization techniques and tools like Python, Plotly, and Dash.
+- Analyzing economic complexity and supply chain resilience through multidimensional datasets.
+- Collaborative research and documentation using GitHub.
 
 ---
 ## Embedded Media
@@ -30,9 +36,4 @@ This repository contains the final project for **INFOSCI 301 Data Visualization 
 ### Poster
 ![Project Poster](Poster/Poster-1.png)
 
----
-## Statement of Intellectual and Professional Growth
-This project provided an opportunity to develop expertise in:
-- Data visualization techniques and tools like Python, Plotly, and Dash.
-- Analyzing economic complexity and supply chain resilience through multidimensional datasets.
-- Collaborative research and documentation using GitHub.
+

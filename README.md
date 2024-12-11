@@ -6,5 +6,5 @@ This project explores the interplay between economic complexity and global suppl
 ---
 
 ## Authors
-- **Name**: Yuzi Zhang
+- **Name**: Yifei Wang
 - **Role**: Project Lead and Developer

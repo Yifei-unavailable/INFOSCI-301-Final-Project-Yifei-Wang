@@ -32,6 +32,25 @@ This repository contains the final project for **INFOSCI 301 Data Visualization 
 - Thanks to Chakraborty et al. for providing data on exposure,  the UN Comtrade Database for providing Trade data, and ECI data
 
 ---
+
+## Navigation Instructions
+### Dataset
+The `Dataset/` folder contains three key datasets used in this project:
+1. **Export Competitiveness Data (`Export COMPET_.csv`)**:
+   - Contains data on trade exports and competitiveness for various countries.
+   - Includes indicators for export performance and specialization in global markets.
+   - Used for generating visualizations on trade flows and economic diversity.
+
+2. **Systemic Risk Data (`Fig2a-avg_exposure.csv`)**:
+   - Highlights systemic risk exposure within global supply chains.
+   - Contains average exposure metrics for firms and regions to disruptions.
+   - Used to visualize cascading effects and vulnerabilities in supply networks.
+
+3. **Economic Complexity Index Data (`multidimensional_eci_data.csv`)**:
+   - Provides multidimensional metrics on economic complexity for countries.
+   - Includes data on trade sophistication, technological outputs, and industrial diversity.
+   - Central to mapping economic complexity and its correlation with resilience.
+---
 ## Statement of Intellectual and Professional Growth
 This project provided an opportunity to develop expertise in:
 - Data visualization techniques and tools like Python, Plotly, and Dash.

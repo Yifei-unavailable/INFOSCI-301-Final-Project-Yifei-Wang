@@ -25,7 +25,7 @@ This repository contains the final project for **INFOSCI 301 Data Visualization 
 ---
 ## Embedded Media
 ### Demo Video
-[Download Demo Video](emo%20Video_INFOSCI%20301_Yifei%20Wang.mp4)
+[Download Demo Video](Demo%20Video_INFOSCI%20301_Yifei%20Wang.mp4)
 
 ### Poster
 ![Project Poster](Poster/Poster-1.png)

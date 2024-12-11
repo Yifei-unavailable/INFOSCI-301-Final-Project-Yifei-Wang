@@ -50,6 +50,32 @@ The `Dataset/` folder contains three key datasets used in this project:
    - Provides multidimensional metrics on economic complexity for countries.
    - Includes data on trade sophistication, technological outputs, and industrial diversity.
    - Central to mapping economic complexity and its correlation with resilience.
+### Mapfile
+The `Mapfile/` folder includes:
+- **`ne_110m_admin_0_countries.shp`**: A shapefile for geographic mapping.
+
+---
+
+## How to Run the Code
+The code for this project is available in the `CODE/` folder as `INFOSCI_301_Final_Project_Yifei_Wang.ipynb`.
+
+### Instructions for Running the Code in Google Colab
+1. Open [Google Colab](https://colab.research.google.com).
+2. Upload the `INFOSCI_301_Final_Project_Yifei_Wang.ipynb` file to your Colab environment.
+3. Upload the required datasets and map files:
+    - Datasets: 
+      - `Export COMPET_.csv`
+      - `Fig2a-avg_exposure.csv`
+      - `multidimensional_eci_data.csv`
+    - Mapfile:
+      - `ne_110m_admin_0_countries.shp` (and its associated files like `.dbf` and `.prj`).
+4. Ensure all files are in the same working directory in Colab.
+5. Install required libraries by running the following command in a Colab cell:
+    ```python
+    !pip install geopandas plotly pandas
+    ```
+6. Run the script by executing the cells in the `INFOSCI_301_Final_Project_Yifei_Wang.ipynb` file.
+
 ---
 ## Statement of Intellectual and Professional Growth
 This project provided an opportunity to develop expertise in:

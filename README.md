@@ -43,7 +43,7 @@ This repository contains the final project for **INFOSCI 301 Data Visualization 
 
 ## Navigation Instructions
 ### Dataset
-The `Dataset/` folder contains three key datasets used in this project:
+The [`Dataset/`] (Dataset/) folder contains three key datasets used in this project:
 1. **Export Competitiveness Data (`Export COMPET_.csv`)**:
    - Contains data on trade exports and competitiveness for various countries.
    - Includes indicators for export performance and specialization in global markets.
@@ -59,18 +59,18 @@ The `Dataset/` folder contains three key datasets used in this project:
    - Includes data on trade sophistication, technological outputs, and industrial diversity.
    - Central to mapping economic complexity and its correlation with resilience.
 ### Mapfile
-The `Mapfile/` folder includes:
+The [`Mapfile/`] (Mapfile/) folder includes:
 - **`ne_110m_admin_0_countries.shp`**: A shapefile for geographic mapping.
 ### Code
-The `CODE/` folder includes:
+The [`CODE/`] (CODE/) folder includes:
 - **`INFOSCI_301_Final_Project_Yifei_Wang.ipynb`**: The code for visulization.
-### Final Report
-The `Final Report/` folder includes:
+### Final Report 
+The [`Final Report/`] (Final%20Report/) folder includes:
 - **`Yifei Wang Final Project.docx`**: The detailed report for this project.
 ---
 
 ## How to Run the Code
-The code for this project is available in the `CODE/` folder as `INFOSCI_301_Final_Project_Yifei_Wang.ipynb`.
+The code for this project is available in the [`CODE/`] (CODE/) folder as `INFOSCI_301_Final_Project_Yifei_Wang.ipynb`.
 
 ### Instructions for Running the Code in Google Colab
 1. Open [Google Colab](https://colab.research.google.com).

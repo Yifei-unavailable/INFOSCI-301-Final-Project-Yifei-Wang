@@ -6,13 +6,15 @@
 2. [Authors](#authors)
 3. [Disclaimer](#disclaimer)
 4. [Acknowledgments](#acknowledgments)
-5. [Statement of Intellectual and Professional Growth](#statement-of-intellectual-and-professional-growth)
-6. [Table of Contents](#table-of-contents)
-7. [Navigation Instructions](#navigation-instructions)
+5. [Table of Contents](#table-of-contents)
+6. [Navigation Instructions](#navigation-instructions)
     - [Dataset](#dataset)
     - [Mapfile](#mapfile)
-8. [How to Run the Code](#how-to-run-the-code)
-9. [Embedded Media](#embedded-media)
+    - [CODE](#CODE)
+7. [How to Run the Code](#how-to-run-the-code)
+8. [Interactive Visualization Product](#Interactive-Visualization-Product)
+9. [Statement of Intellectual and Professional Growth](#statement-of-intellectual-and-professional-growth)
+10. [Embedded Media](#embedded-media)
 ---
 ## Project Overview
 This project explores the interplay between economic complexity and global supply chain resilience using advanced data visualization techniques. The objective is to uncover patterns and vulnerabilities in trade networks and provide actionable insights for policymakers, researchers, and businesses.

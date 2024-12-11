@@ -11,6 +11,7 @@
     - [Dataset](#dataset)
     - [Mapfile](#mapfile)
     - [CODE](#CODE)
+    - [Final Report](#Final_Report)
 7. [How to Run the Code](#how-to-run-the-code)
 8. [Interactive Visualization Product](#Interactive-Visualization-Product)
 9. [Statement of Intellectual and Professional Growth](#statement-of-intellectual-and-professional-growth)
@@ -63,7 +64,7 @@ The `Mapfile/` folder includes:
 ### Code
 The `CODE/` folder includes:
 - **`INFOSCI_301_Final_Project_Yifei_Wang.ipynb`**: The code for visulization.
-### Detailed Report
+### Final Report
 The `Final Report/` folder includes:
 - **`Yifei Wang Final Project.docx`**: The detailed report for this project.
 ---

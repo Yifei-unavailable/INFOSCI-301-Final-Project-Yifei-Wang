@@ -67,6 +67,10 @@ The [`CODE`](CODE/) folder includes:
 ### Final Report 
 The [`Final Report`](Final%20Report/) folder includes:
 - **`Yifei Wang Final Project.docx`**: The detailed report for this project.
+
+### Visualization Plot 
+The [`Visuliazion Plot`](Visuliazion%20Plot/) folder includes:
+- **`eci map1.png`**: The detailed report for this project.
 ---
 
 ## How to Run the Code

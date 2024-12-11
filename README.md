@@ -17,8 +17,9 @@ This repository contains the final project for **INFOSCI 301 Data Visualization 
 
 ## Acknowledgments
 - Prof. Luyao Zhang for invaluable guidance and feedback.
-- Classmates for collaborative discussions and insights.
+- INFOSCI 301 Classmates for collaborative discussions and feedback insights.
 - AIGC tools like ChatGPT for drafting and revising project documentation.
-- Open-source libraries and datasets for enabling this research.
+- Thanks to Chakraborty et al. for providing data on exposure,  the UN Comtrade Database for providing Trade data, and ECI data
+
 
 ---

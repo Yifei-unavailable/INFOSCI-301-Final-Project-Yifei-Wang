@@ -6,13 +6,13 @@
 2. [Authors](#authors)
 3. [Disclaimer](#disclaimer)
 4. [Acknowledgments](#acknowledgments)
-5. [Embedded Media](#embedded-media)
-6. [Statement of Intellectual and Professional Growth](#statement-of-intellectual-and-professional-growth)
-7. [Table of Contents](#table-of-contents)
-8. [Navigation Instructions](#navigation-instructions)
+5. [Statement of Intellectual and Professional Growth](#statement-of-intellectual-and-professional-growth)
+6. [Table of Contents](#table-of-contents)
+7. [Navigation Instructions](#navigation-instructions)
     - [Dataset](#dataset)
     - [Mapfile](#mapfile)
-9. [How to Run the Code](#how-to-run-the-code)
+8. [How to Run the Code](#how-to-run-the-code)
+9. [Embedded Media](#embedded-media)
 ---
 ## Project Overview
 This project explores the interplay between economic complexity and global supply chain resilience using advanced data visualization techniques. The objective is to uncover patterns and vulnerabilities in trade networks and provide actionable insights for policymakers, researchers, and businesses.
@@ -58,6 +58,9 @@ The `Dataset/` folder contains three key datasets used in this project:
 ### Mapfile
 The `Mapfile/` folder includes:
 - **`ne_110m_admin_0_countries.shp`**: A shapefile for geographic mapping.
+### Code
+The `CODE/` folder includes:
+- **`INFOSCI_301_Final_Project_Yifei_Wang.ipynb`**: The code for visulization.
 
 ---
 

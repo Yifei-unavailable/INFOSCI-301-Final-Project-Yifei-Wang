@@ -82,6 +82,11 @@ The code for this project is available in the `CODE/` folder as `INFOSCI_301_Fin
 6. Run the script by executing the cells in the `INFOSCI_301_Final_Project_Yifei_Wang.ipynb` file.
 
 ---
+## Interactive Visualization Product
+The interactive visualization product, developed using Dash, is available in another GitHub repository.  
+[View the Dash Interactive Visualization Repository](https://github.com/Yifei-unavailable/dash-yifei.git)
+
+---
 ## Statement of Intellectual and Professional Growth
 This project provided an opportunity to develop expertise in:
 - Data visualization techniques and tools like Python, Plotly, and Dash.

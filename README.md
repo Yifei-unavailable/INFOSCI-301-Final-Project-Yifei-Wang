@@ -71,7 +71,7 @@ The [`Final Report`](Final%20Report/) folder includes:
 
 ### Visualization Plot 
 The [`Visuliazion Plot`](Visuliazion%20Plot/) folder includes:
-- **`eci map1.png`**: The detailed report for this project.
+- **`eci map1.png`**: One sample for visualization.
 ---
 
 ## How to Run the Code
